@@ -12,7 +12,5 @@ document.querySelectorAll(".elementor-tab-title").forEach((element) => {
     } else {
       content.style.display = "none";
     }
-
-    alert("hit here")
   });
 });
